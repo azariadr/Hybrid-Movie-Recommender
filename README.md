@@ -1,4 +1,3 @@
-```markdown
 # Movie Recommender System (Content-Based & Hybrid)
 
 This repository contains a complete pipeline to build a robust **Movie Recommendation System** using data from official IMDb datasets. It features both a **Content-Based Recommender** using metadata (genres, cast, directors, writers) and a **Hybrid Recommender** that balances content similarity with popularity-based reliability using IMDb's weighted rating formula.
